@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauryasamanta&label=Profile%20views&color=0e75b6&style=flat" alt="mauryasamanta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauryasamanta" alt="mauryasamanta" /></a> </p>
-
 - ✌️ The project I am most proud of **SearchUp- an AI powered platform where users can search for their social networks by typing natural language prompts.**
 
 - 🌱 I’m currently learning **Game development in React using PixiJs and Phaser libraries**
 
-- 💻 Developer-centric tool I would love to tell you about [BuildStack- A simple tool where indie developers can link their github accounts and create projects and create goals and complete them and see a live graph indicating their progress to keep them motivated](https://www.buildstack.online)
+- 💻 Developer-centric tool I would love to tell you about **BuildStack- A simple tool where indie developers can link their github accounts and create projects and create goals and complete them and see a live graph indicating their progress to keep them motivated https://www.buildstack.online**
 
-- 😀 Another project on which I spent nearly 4 months [EloKo- A cloud-based chat application with end-to-end encryption with feature of sharing folders as well and enables users to store files and organize them in a desktop-like fashion in the in-app library to reduce the unnecessary clutter of files we notice in apps like Whatsapp](https://www.eloko.com)
+- 😀 Another project on which I spent nearly 4 months **EloKo- A cloud-based chat application with end-to-end encryption with feature of sharing folders as well and enables users to store files and organize them in a desktop-like fashion in the in-app library to reduce the unnecessary clutter of files we notice in apps like Whatsapp https://www.eloko.com**
 
 - 🎯 My Current Target **I am looking to forward to soon build a metaverse business-centric application with graphics where users can interact using avatars**
 
